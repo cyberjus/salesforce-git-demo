@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Classroom__c</fullName>
+    <externalId>false</externalId>
+    <label>Classroom</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Room 1</fullName>
+                <default>false</default>
+                <label>Room 1</label>
+            </value>
+            <value>
+                <fullName>Room 2</fullName>
+                <default>false</default>
+                <label>Room 2</label>
+            </value>
+            <value>
+                <fullName>Room 3</fullName>
+                <default>false</default>
+                <label>Room 3</label>
+            </value>
+            <value>
+                <fullName>Room 4</fullName>
+                <default>false</default>
+                <label>Room 4</label>
+            </value>
+            <value>
+                <fullName>Room 5</fullName>
+                <default>false</default>
+                <label>Room 5</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
